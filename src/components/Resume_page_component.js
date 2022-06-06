@@ -10,7 +10,7 @@ const Resume_page_component = () => {
     return (
         <div> 
         <JumbotronComponent />
-        <div className="container" style={top_style}>
+        <div className="container">
             {/* <div className="row text-center">
                 <h1 className="fs-2">Hi i am Milan</h1>
                 <h3 className="fs-4 ms-3">Full stack Dev</h3>
