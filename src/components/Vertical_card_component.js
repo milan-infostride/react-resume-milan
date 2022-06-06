@@ -14,9 +14,9 @@ const Vertical_card_component = (props) => {
     return ( 
         <div className="col mb-4">
             <div className="card mx-3 p-0 h-100">
-            <img src={props.lan.img} className="card-img-top" alt="..."/>
+            <img src={props.item.img} className="card-img-top" alt="..."/>
             <div className="card-body" style={bg_col}>
-            <h5 className="card-title fw-bold">{props.lan.title}</h5>
+            <h5 className="card-title fw-bold">{props.item.title}</h5>
             <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
             </div>

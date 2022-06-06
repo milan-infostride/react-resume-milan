@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 import logo from './logo.svg';
 import Navbar_component from './components/Navbar_component';
 import Resume_page_component from './components/Resume_page_component';

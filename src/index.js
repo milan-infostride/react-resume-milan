@@ -1,12 +1,15 @@
 import 'animate.css';
-import 'https://kit.fontawesome.com/16139588c8.js';
+import "https://kit.fontawesome.com/16139588c8.js"
+import "https://code.jquery.com/jquery-3.6.0.min.js";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import './all.css'
-import $ from 'jquery';
+
 import Popper from 'popper.js';
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import $ from 'jquery';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
