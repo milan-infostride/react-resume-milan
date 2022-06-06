@@ -1,4 +1,4 @@
-
+import 'animate.css';
 import 'https://kit.fontawesome.com/16139588c8.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
