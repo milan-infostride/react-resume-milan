@@ -1,7 +1,7 @@
 import 'animate.css';
 import "https://kit.fontawesome.com/16139588c8.js"
 
-
+import './hr-styles.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Popper from 'popper.js';
