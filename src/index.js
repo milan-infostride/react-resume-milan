@@ -1,5 +1,5 @@
 import 'animate.css';
-import "https://kit.fontawesome.com/16139588c8.js"
+// import "https://kit.fontawesome.com/16139588c8.js"
 
 import './hr-styles.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
